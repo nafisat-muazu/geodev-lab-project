@@ -8,4 +8,4 @@ Built over 12 months with Geodev Lab Africa, Cohort One.
 See project-brief.md for the full details. 
 
 
-![Primary Health Centers Map](Primary-Health-Centers-kogi-5km-river.png).
+![Primary Health Centers Map](primary-health-centers-kogi-5km-river.png).

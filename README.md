@@ -6,3 +6,6 @@ GIS buffer analysis identifying primary health centers within 5km of rivers in K
 
 Built over 12 months with Geodev Lab Africa, Cohort One.
 See project-brief.md for the full details.
+
+
+![Primary Health Centers Map](Primary-Health-Centers-kogi-5km-river.png).

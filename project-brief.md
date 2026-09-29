@@ -19,4 +19,4 @@ Symbolize the output: facilities within 5km of a river in red (at risk) and faci
 
 # Result
 A map showing primary health centers across Kogi State split into two categories: those within 5km of a river (flagged red as at risk) and those beyond 5km
-(shown in black as safe). This gives Geodev Lab Africa and Kogi State health stakeholders a quick visual reference for facilities that may need flood contingency planning.
+(shown in black as safe). This gives Kogi State health stakeholders a quick visual reference for facilities that may need flood contingency planning.
